@@ -150,7 +150,7 @@ a:hover {
     margin-left: 0.5rem;
 }
 
-/* 特定于最后一组的样式 */
+
 .link-item.last-item {
     flex-direction: row;
 }
